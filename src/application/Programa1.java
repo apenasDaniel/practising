@@ -20,7 +20,7 @@ public class Programa1 {
         System.out.print("Quantidade no estoque: ");
         produto.quantity = scan.nextInt();
 
-        System.out.println(produto.name + produto.price + produto.quantity);
+        System.out.println(produto);
 
 
 
